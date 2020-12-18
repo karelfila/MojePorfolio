@@ -16,8 +16,11 @@
 }
 .APImap {
     margin: 0px;
-    box-shadow: 0px 0px 20px 0px #000000;
 }
 body {
     background-color: #F5F7F7;
+}
+.FACE{
+    width: 1000px;
+    height: 500px;
 }

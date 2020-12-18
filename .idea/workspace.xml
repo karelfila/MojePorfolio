@@ -11,9 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cda7bf69-3013-42df-973d-5935adb1f651" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DancingScript-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FACE.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles1.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles1.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +58,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\IT\Projekty\MojePorfolio" />
+      <recent name="E:\IT\Projekty\MojePorfolio\.idea" />
     </key>
   </component>
   <component name="RunManager">
@@ -81,6 +83,8 @@
       <option name="presentableId" value="Default" />
       <updated>1608277835158</updated>
       <workItem from="1608277838209" duration="5383000" />
+      <workItem from="1608284017091" duration="199000" />
+      <workItem from="1608284862889" duration="589000" />
     </task>
     <servers />
   </component>
@@ -97,6 +101,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1608277840309">
