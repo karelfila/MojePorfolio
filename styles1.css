@@ -2,6 +2,10 @@
     font-family: DancingScript;
     src: url("DancingScript-Medium.ttf");
 }
+@font-face {
+    font-family: Raleway;
+    src: url("Raleway-Regular.ttf");
+}
 .nazev {
     text-align: center;
     font-family: DancingScript;
@@ -9,7 +13,7 @@
     height: 105vh;
 }
 .information{
-    font-family: DancingScript;
+    font-family: Raleway;
     height: 90vh;
     text-align: center;
     font-size: 30px;

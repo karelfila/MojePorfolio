@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cda7bf69-3013-42df-973d-5935adb1f651" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FACE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Raleway-Regular.ttf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles1.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles1.css" afterDir="false" />
@@ -85,6 +85,8 @@
       <workItem from="1608277838209" duration="5383000" />
       <workItem from="1608284017091" duration="199000" />
       <workItem from="1608284862889" duration="589000" />
+      <workItem from="1608289819399" duration="499000" />
+      <workItem from="1608553600100" duration="1458000" />
     </task>
     <servers />
   </component>
@@ -108,5 +110,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1608277840309" />
+    <state x="342" y="203" key="new project wizard" timestamp="1608290323420">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="203" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1608290323420" />
   </component>
 </project>
