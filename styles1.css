@@ -28,3 +28,9 @@ body {
     width: 1000px;
     height: 500px;
 }
+.psy {
+    font-family: Raleway;
+    height: 90vh;
+    text-align: center;
+    font-size: 30px;
+}
