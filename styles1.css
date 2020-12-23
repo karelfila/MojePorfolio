@@ -30,7 +30,14 @@ body {
 }
 .psy {
     font-family: Raleway;
-    height: 90vh;
+    height: 130vh;
     text-align: center;
     font-size: 30px;
 }
+.hry {
+    font-family: Raleway;
+    height: 170vh;
+    text-align: center;
+    font-size: 30px;
+}
+
